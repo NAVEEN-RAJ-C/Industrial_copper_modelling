@@ -32,6 +32,7 @@ Project Structure
     notebooks/: Jupyter notebooks for data exploration, preprocessing, and model building.
     src/: Python scripts for data preprocessing and utility functions.
     app.py: Streamlit web application for user interaction.
+    requirements.txt: List of Python packages required for the project.
 
 License
 
